@@ -1,0 +1,5 @@
+.myDiv {
+  border: 5px outset rgb(255, 0, 0);
+  background-color: lightblue;    
+  text-align: center;
+}
